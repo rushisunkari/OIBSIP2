@@ -79,7 +79,7 @@ body {
 
 #display::-webkit-scrollbar {
     display: block;
-    height: 3px;
+    height: 4px;
 }
 
 button {
